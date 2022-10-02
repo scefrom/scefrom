@@ -8,7 +8,7 @@ I started my programing career in Roblox, making some projects using Lua. Then i
 
 ### My Projects
 
-- **Calk**: I became appassionate of low-level programming and i started making a CLI expression-based calculator in C: Calk, that i still use today. You can declare and use variables (`a = 2`), call built-in functions (`sin(x)`), use built-in macros (`$pi`, `$e`), and even use system built-in functions such as `#for(init, condition, end, body (divided by commas))`. Calk is a private repository for now; Im planning to revamp it, since it is my first project and i didnt have much knowledge).
+- **Calk**: I became appassionate of low-level programming and i started making a CLI expression-based calculator in C: Calk, that i still use today. You can declare and use variables (`a = 2`), call built-in functions (`sin(x)`), use built-in macros (`$pi`, `$e`), and even use system built-in functions such as `#for(init, condition, end, body (divided by commas))`. Calk is a private repository for now; Im planning to revamp it, since it is my first project and i didnt have much knowledge at the time).
 
 - **Cnes**: Months later i decided to start another project: an SDL2-based NES emulator in C: Cnes (still, private repository, planning to add more things before making it public). Its 6502 cpu emulator doesnt respect clock cycles and its pretty simple, but can pass the [6502 functionality program](https://github.com/Klaus2m5/6502_65C02_functional_tests/blob/master/6502_functional_test.a65) developed by Klaus2m5.
 
