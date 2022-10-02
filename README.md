@@ -18,7 +18,7 @@ I started my programing career in Roblox, making some projects using Lua. Then i
 
 By the end of April 2022, i started taking another project more seriously: Bridge, a javascript-like syntax programming language that compiles into assembly-like bytecode.
 The project owner is @CristianoBarone, in fact he owns the repository (guess what? private, lol).
-This is the project im currently working to almost everyday. We hope the first version to come soon, in order to make the repository public bringing Bridge to life!
+This is the project im currently working to almost everyday. We wish the first version to come soon, in order to make the repository public bringing Bridge to life!
 
 <!--
 **scefrom/scefrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
