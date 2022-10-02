@@ -1,16 +1,18 @@
-## Scefrom
+# Scefrom
 
 Hi! My name is Pietro, i live in Italy and im 15 years old.
 
+## How it started
+
 I started my programing career in Roblox, making some projects using Lua. Then i wanted to escape the platform, and i started learning the C programming language by its own book, after learning how the cpu and memory work togheter.
 
-### Calk
+### My Projects
 
-I became appassionate of low-level programming and i started making a CLI expression-based calculator in C: Calk, that i still use today. (private repository, planning to revamp it, since it was my first project and i didnt have much knowledge).
+- **Calk**: I became appassionate of low-level programming and i started making a CLI expression-based calculator in C: Calk, that i still use today. You can declare and use variables (`a = 2`), call built-in functions (`sin(x)`), use built-in macros (`$pi`, `$e`), and even use system built-in functions such as `#for(init, condition, end, body (divided by commas))`. Calk is a private repository for now; Im planning to revamp it, since it is my first project and i didnt have much knowledge).
 
-### Cnes
+- **Cnes**: Months later i decided to start another project: an SDL2-based NES emulator in C: Cnes (still, private repository, planning to add more things before making it public). Its 6502 cpu emulator doesnt respect clock cycles and its pretty simple, but can pass the [6502 functionality program](https://github.com/Klaus2m5/6502_65C02_functional_tests/blob/master/6502_functional_test.a65) developed by Klaus2m5.
 
-Months later i decided to start another project: an SDL2-based NES emulator in C: Cnes (still, private repository, planning to add more things before making it public). Its 6502 cpu emulator doesnt respect clock cycles and its pretty simple, but can pass the 6502 functionality program developed by Klaus2m5 (https://github.com/Klaus2m5/6502_65C02_functional_tests/blob/master/6502_functional_test.a65)
+## How it's going
 
 ### Bridge
 
