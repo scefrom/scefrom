@@ -4,7 +4,7 @@ Hi! My name is Pietro, i live in Italy and im 15 years old.
 
 ## How it started
 
-I started my programing career by starting to use [Roblox](https://www.roblox.com/users/823579381/profile) in 2018, making some projects in Lua. Then i wanted to escape the platform, and i started learning the C programming language by its own book, after learning how the cpu and memory work togheter.
+I started my programing career by starting to use [Roblox](https://www.roblox.com/users/823579381/profile) in 2018, making some projects in Lua. Then i wanted to escape the platform, and i started learning the C programming language by its own book, after learning how the cpu and memory work toghether.
 
 ### My Projects
 
